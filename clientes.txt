@@ -1,0 +1,30 @@
+1,Juan Perez,Avenida Reforma 123,55123456,juan.perez@email.com
+2,Ana Gomez,Calle Principal 45,55987654,ana.gomez@email.com
+3,Carlos Ruiz,Boulevard Central 78,55678912,carlos.ruiz@email.com
+4,María López,Calle Secundaria 89,55234567,maria.lopez@email.com
+5,Luis Torres,Avenida Libertad 101,55345678,luis.torres@email.com
+6,Elena Castro,Calle Esperanza 22,55456789,elena.castro@email.com
+7,Ricardo Molina,Boulevard Independencia 33,55567890,ricardo.molina@email.com
+8,Laura Fernández,Calle Nueva 55,55678901,laura.fernandez@email.com
+9,Sergio Ramírez,Avenida Progreso 66,55789012,sergio.ramirez@email.com
+10,Monica Díaz,Calle del Sol 77,55890123,monica.diaz@email.com
+11,Alberto Sánchez,Avenida Primavera 88,55901234,alberto.sanchez@email.com
+12,Natalia Herrera,Calle Otoño 99,55012345,natalia.herrera@email.com
+13,Guillermo Ortega,Boulevard Verano 111,55123098,guillermo.ortega@email.com
+14,Valeria Mendoza,Calle Invierno 222,55234109,valeria.mendoza@email.com
+15,Pablo Vázquez,Avenida Central 333,55345210,pablo.vazquez@email.com
+16,Emilio Ríos,Calle Norte 444,55456321,emilio.rios@email.com
+17,Camila Jiménez,Boulevard Sur 555,55567432,camila.jimenez@email.com
+18,Esteban Flores,Calle Este 666,55678543,esteban.flores@email.com
+19,Lucía Navarro,Avenida Oeste 777,55789654,lucia.navarro@email.com
+20,Raúl Guzmán,Calle Peatonal 888,55890765,raul.guzman@email.com
+21,Daniela Paredes,Boulevard Peatonal 999,55901876,daniela.paredes@email.com
+22,Fernando Salas,Avenida del Bosque 1010,55012987,fernando.salas@email.com
+23,Isabela Velázquez,Calle del Río 1111,55123098,isabela.velazquez@email.com
+24,Martín Castañeda,Boulevard del Lago 1212,55234109,martin.castaneda@email.com
+25,Patricia Estrada,Calle del Mar 1313,55345210,patricia.estrada@email.com
+26,Adrián Peña,Avenida del Sol 1414,55456321,adrian.pena@email.com
+27,Beatriz Ocampo,Calle de la Luna 1515,55567432,beatriz.ocampo@email.com
+28,Héctor Mejía,Boulevard de las Estrellas 1616,55678543,hector.mejia@email.com
+29,Susana Navas,Avenida Montaña 1717,55789654,susana.navas@email.com
+30,Oscar Figueroa,Calle del Viento 1818,55890765,oscar.figueroa@email.com

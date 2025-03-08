@@ -1,0 +1,4 @@
+Ana López,Ana Gomez,2 Sony Bravia 65" | ,24000.0
+Ana López,Ana Gomez,4 Sony Bravia 65" | ,48000.0
+Diego Fernández,Carlos Ruiz,3 Samsung QLED 55" | ,27000.0
+Diego Fernández,Carlos Ruiz,2 Cable USB-C 1m | 3 Toshiba 60" LED | 4 Xiaomi Mi TV 43" | ,47900.0
